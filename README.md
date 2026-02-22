@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pulkit Khanna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-
-- 🔭 I’m currently working on [DSA in CPP](https://github.com/pulkitkhanna1/CPP-DSA-practice)
-
-- 🌱 I’m currently learning **CPP, React, JS**
 
 - 👨‍💻 All of my projects are available at [https://pulkit-portfolio-6b349n414-pulkitkhanna1.vercel.app/](https://pulkit-portfolio-6b349n414-pulkitkhanna1.vercel.app/)
-
-- 💬 Ask me about **CPP**
 
 - 📫 How to reach me **pulkitkhanna1@gmail.com**
 
